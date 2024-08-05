@@ -11,7 +11,9 @@ Publish & Share: Publish the report to Power BI Service for sharing with stakeho
 
 OVERALL INSIGHTS:
 Revenue decreased by 12.8%
+
 Transaction count decreased by 8.3%
+
 Transaction amount decreased by 10.4%
 
 
